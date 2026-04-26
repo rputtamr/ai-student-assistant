@@ -1,6 +1,6 @@
 # 🎓 AI Student Assistant
 
-> A conversational AI assistant prototype designed to improve the student experience — built in the style of ASU EdPlus digital learning tools.
+> A conversational AI assistant prototype designed to improve the student experience in higher education digital learning environments.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue) ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -21,12 +21,6 @@ Students waste time searching across multiple platforms for information about co
 | ⚡ Quick Actions | One-click buttons for common questions |
 | 🧠 Topic Detection | Automatically classifies student queries |
 | 🔄 Chat Memory | Maintains full conversation history |
-
----
-
-## 📸 App Preview
-
-> Chat interface with sidebar analytics tracking student query patterns in real time.
 
 ---
 
@@ -61,12 +55,6 @@ This project was built with a full product mindset:
 - **Feature Prioritization** — started with MVP, iterated with analytics
 - **UX Design** — chat-based interaction modeled on familiar AI tools
 - **Data Informed** — analytics panel tracks usage patterns like a real product
-
----
-
-## 🎓 Built For
-
-This prototype is aligned with **ASU EdPlus** product values — improving digital learning experiences through student-centered design and scalable AI tools.
 
 ---
 
